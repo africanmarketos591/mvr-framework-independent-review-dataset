@@ -1,0 +1,5 @@
+Version 1.0 — 2025-10-25
+• Initial release on GitHub and Zenodo.
+• Added structured metadata (schema.jsonld).
+• Included anonymized LinkedIn / engagement metrics.
+• Linked to AI Evidence DOI (Figshare 30391393).
