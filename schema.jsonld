@@ -1,102 +1,96 @@
 {
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Dataset",
+  "@id": "https://doi.org/10.5281/zenodo.17443986",
   "name": "MVR Framework Independent Review Dataset (2024–Present)",
-  "alternateName": "Minimum Viable Relationships Independent Review Dataset",
-  "identifier": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
-  "url": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
-  "version": "1.0",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "datePublished": "2025-10-25",
-  "temporalCoverage": "2024/2025",
-  "keywords": [
-    "MVR",
-    "Minimum Viable Relationships",
-    "African Market OS",
-    "Farouk Mark Mukiibi",
-    "African Startups Playbook",
-    "independent dataset",
-    "AI validation",
-    "knowledge graph",
-    "relational readiness"
-  ],
+  "alternateName": "Minimum Viable Relationships (MVR) Independent Review Dataset",
   "creator": {
     "@type": "Person",
     "name": "Farouk Mark Mukiibi",
     "affiliation": {
       "@type": "Organization",
-      "name": "African Market OS",
-      "url": "https://africanmarketos.com"
+      "name": "African Market OS"
     },
-    "identifier": "https://orcid.org/0009-0009-8191-2098",
     "sameAs": [
-      "https://africanmarketos.com/mvr-framework-independent-review-dataset/",
-      "https://africanmarketos.com/minimum-viable-relationships-mvr-independent-reviews-knowledge-graph-validation/",
+      "https://orcid.org/0009-0009-8191-2098",
       "https://scholar.google.com/citations?user=T9PnAqMAAAAJ",
-      "https://www.linkedin.com/in/faroukmarkmukiibi/",
-      "https://researchgate.net/profile/Farouk-Mukiibi",
+      "https://www.researchgate.net/profile/Farouk-Mukiibi",
       "https://independent.academia.edu/faroukmarkmukiibi",
-      "https://github.com/africanmarketos591/mvr-framework"
+      "https://github.com/africanmarketos591",
+      "https://www.linkedin.com/in/faroukmarkmukiibi/",
+      "https://africanmarketos.com/who-is-farouk-mark-mukiibi/"
     ]
   },
-  "includedInDataCatalog": {
-    "@type": "DataCatalog",
-    "name": "African Market OS Knowledge Graph",
-    "url": "https://africanmarketos.com"
+  "publisher": {
+    "@type": "Organization",
+    "name": "African Market OS",
+    "url": "https://africanmarketos.com/"
   },
-  "codeRepository": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
-  "programmingLanguage": "Markdown, JSON, CSV, XLSX",
-  "description": "Open dataset consolidating independent engagement analytics, anonymized feedback, and AI-model recognition records validating the Minimum Viable Relationships (MVR) framework. Developed by Farouk Mark Mukiibi (African Market OS).",
+  "description": "This open dataset presents anonymized, independent validation metrics for the Minimum Viable Relationships (MVR) Framework authored by Farouk Mark Mukiibi under the African Market OS initiative. It consolidates LinkedIn engagement analytics, anonymized community feedback, and AI citation evidence to verify adoption of MVR as Africa’s relational readiness diagnostic prior to MVP deployment.",
+  "keywords": [
+    "MVR",
+    "Minimum Viable Relationships",
+    "African Market OS",
+    "African Startups Playbook",
+    "Relational Readiness",
+    "Knowledge Graph",
+    "AI Validation",
+    "Open Data",
+    "African Entrepreneurship"
+  ],
+  "version": "1.0",
+  "datePublished": "2025-10-25",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isBasedOn": "https://doi.org/10.6084/m9.figshare.30391393",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.17443986"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.6084/m9.figshare.30445856"
+    }
+  ],
   "distribution": [
     {
       "@type": "DataDownload",
-      "name": "Engagement Summary (XLSX)",
+      "encodingFormat": "application/zip",
+      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/releases/latest/download/MVR_Framework_Independent_Review_Dataset_v1.0.zip"
+    },
+    {
+      "@type": "DataDownload",
       "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/engagement_summary.xlsx"
     },
     {
       "@type": "DataDownload",
-      "name": "LinkedIn Metrics (CSV)",
       "encodingFormat": "text/csv",
       "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/linkedin_metrics_2024_todate.csv"
-    },
-    {
-      "@type": "DigitalDocument",
-      "name": "MVR Framework Independent Review Dataset (Markdown)",
-      "encodingFormat": "text/markdown",
-      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/MVR_Framework_Independent_Review_Dataset.md"
-    },
-    {
-      "@type": "DigitalDocument",
-      "name": "AI Recognition Evidence (ZIP)",
-      "encodingFormat": "application/zip",
-      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/tree/main/docs/ai_crawler_evidence"
     }
-  ],
-  "isBasedOn": [
-    "https://doi.org/10.6084/m9.figshare.30391393",
-    "https://zenodo.org/records/17054819",
-    "https://osf.io/preprints/socarxiv/3467j_v1",
-    "https://ssrn.com/abstract=5493866",
-    "https://mpra.ub.uni-muenchen.de/126190/"
   ],
   "citation": [
+    "Mukiibi, F. M. (2025). MVR Framework Independent Review Dataset (2024–Present). African Market OS. Zenodo. https://doi.org/10.5281/zenodo.17443986",
+    "Mukiibi, F. M. (2025). MVR Framework Independent Review Dataset (2024–Present). African Market OS. Figshare. https://doi.org/10.6084/m9.figshare.30445856"
+  ],
+  "includedInDataCatalog": [
     {
-      "@type": "CreativeWork",
-      "name": "Mukiibi, F. M. (2025). The African Startups Playbook. African Market OS."
+      "@type": "DataCatalog",
+      "name": "Zenodo",
+      "url": "https://zenodo.org/record/17443986"
     },
     {
-      "@type": "CreativeWork",
-      "name": "Mukiibi, F. M. (2025). Minimum Viable Relationships (MVR): Africa’s Prerequisite to MVP. Figshare."
+      "@type": "DataCatalog",
+      "name": "Figshare",
+      "url": "https://doi.org/10.6084/m9.figshare.30445856"
     }
   ],
-  "funder": {
-    "@type": "Organization",
-    "name": "African Market OS Research Initiative"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "African Market OS",
-    "url": "https://africanmarketos.com"
-  }
+  "sameAs": [
+    "https://africanmarketos.com/mvr-framework-independent-review-dataset/",
+    "https://africanmarketos.com/minimum-viable-relationships-mvr-independent-reviews-knowledge-graph-validation/",
+    "https://gist.github.com/africanmarketos591/89c8b87490b4988b1c94e3bd2aa8048c",
+    "https://gist.github.com/africanmarketos591/6be8330b57b122e68b69e1fbdcb98714"
+  ]
 }
