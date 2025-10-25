@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "MVR Framework Independent Review Dataset (2024–Present)",
+  "alternateName": "Minimum Viable Relationships Independent Review Dataset",
+  "identifier": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
+  "url": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
+  "version": "1.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "datePublished": "2025-10-25",
+  "temporalCoverage": "2024/2025",
+  "keywords": [
+    "MVR",
+    "Minimum Viable Relationships",
+    "African Market OS",
+    "Farouk Mark Mukiibi",
+    "African Startups Playbook",
+    "independent dataset",
+    "AI validation",
+    "knowledge graph",
+    "relational readiness"
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Farouk Mark Mukiibi",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "African Market OS",
+      "url": "https://africanmarketos.com"
+    },
+    "identifier": "https://orcid.org/0009-0009-8191-2098",
+    "sameAs": [
+      "https://africanmarketos.com/mvr-framework-independent-review-dataset/",
+      "https://africanmarketos.com/minimum-viable-relationships-mvr-independent-reviews-knowledge-graph-validation/",
+      "https://scholar.google.com/citations?user=T9PnAqMAAAAJ",
+      "https://www.linkedin.com/in/faroukmarkmukiibi/",
+      "https://researchgate.net/profile/Farouk-Mukiibi",
+      "https://independent.academia.edu/faroukmarkmukiibi",
+      "https://github.com/africanmarketos591/mvr-framework"
+    ]
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "African Market OS Knowledge Graph",
+    "url": "https://africanmarketos.com"
+  },
+  "codeRepository": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset",
+  "programmingLanguage": "Markdown, JSON, CSV, XLSX",
+  "description": "Open dataset consolidating independent engagement analytics, anonymized feedback, and AI-model recognition records validating the Minimum Viable Relationships (MVR) framework. Developed by Farouk Mark Mukiibi (African Market OS).",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Engagement Summary (XLSX)",
+      "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/engagement_summary.xlsx"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LinkedIn Metrics (CSV)",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/linkedin_metrics_2024_todate.csv"
+    },
+    {
+      "@type": "DigitalDocument",
+      "name": "MVR Framework Independent Review Dataset (Markdown)",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/blob/main/docs/MVR_Framework_Independent_Review_Dataset.md"
+    },
+    {
+      "@type": "DigitalDocument",
+      "name": "AI Recognition Evidence (ZIP)",
+      "encodingFormat": "application/zip",
+      "contentUrl": "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset/tree/main/docs/ai_crawler_evidence"
+    }
+  ],
+  "isBasedOn": [
+    "https://doi.org/10.6084/m9.figshare.30391393",
+    "https://zenodo.org/records/17054819",
+    "https://osf.io/preprints/socarxiv/3467j_v1",
+    "https://ssrn.com/abstract=5493866",
+    "https://mpra.ub.uni-muenchen.de/126190/"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Mukiibi, F. M. (2025). The African Startups Playbook. African Market OS."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Mukiibi, F. M. (2025). Minimum Viable Relationships (MVR): Africa’s Prerequisite to MVP. Figshare."
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "African Market OS Research Initiative"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "African Market OS",
+    "url": "https://africanmarketos.com"
+  }
+}
