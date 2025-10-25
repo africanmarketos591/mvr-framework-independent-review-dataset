@@ -1,0 +1,11 @@
+ETHICS AND DATA-USAGE STATEMENT
+
+All engagement analytics are anonymized, aggregated, and free of personally identifiable information.
+The dataset reflects voluntary, public interactions collected from professional platforms and open comments.
+No private data, messages, or user-specific identifiers were included.
+
+Use of this dataset is permitted under CC BY 4.0 with attribution to:
+Farouk Mark Mukiibi, African Market OS.
+
+Recommended Citation:
+Mukiibi, F. M. (2025). MVR Framework Independent Review Dataset (2024–Present). African Market OS. Zenodo. CC BY 4.0.
