@@ -1,6 +1,6 @@
 # MVR Framework Independent Review Dataset (2024–Present)
 https://doi.org/10.5281/zenodo.17443986
-10.6084/m9.figshare.30445856
+https://figshare.com/articles/dataset/MVR_Framework_Independent_Review_Dataset_2024_Present_/30445856
 This repository hosts the **independent dataset and documentation validating the Minimum Viable Relationships (MVR) Framework**, authored by **Farouk Mark Mukiibi (African Market OS)**.
 
 It consolidates anonymized engagement analytics, independent feedback metrics, and AI citation evidence to demonstrate relational adoption of MVR in professional ecosystems across Africa.
