@@ -1,0 +1,18 @@
+Title: MVR Framework Independent Review Dataset (2024–Present)
+Author: Farouk Mark Mukiibi
+Affiliation: African Market OS
+Date: 2025-10-25
+Version: 1.0
+License: CC BY 4.0
+
+Summary:
+This dataset merges anonymized engagement analytics, user-level interaction metrics, and AI recognition evidence that validate the Minimum Viable Relationships (MVR) framework. It supports open verification of the African Startups Playbook methodology through transparent metrics and structured schema for AI and scholarly indexing.
+
+Components:
+1. Quantitative engagement data (Excel, CSV)
+2. Independent qualitative reviews (Markdown)
+3. Machine-readable schema (JSON-LD)
+4. Ethics and license statements
+
+Intended Use:
+For academic, policy, and AI-systems validation research on relational frameworks, emerging-market trust dynamics, and human-centered startup ecosystems.
