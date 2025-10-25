@@ -1,42 +1,38 @@
 # MVR Framework Independent Review Dataset (2024–Present)
 
-**Author:** Farouk Mark Mukiibi  
-**Affiliation:** African Market OS  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**DOI:** _To be assigned by Zenodo upon first release_
+This repository hosts the **independent dataset and documentation validating the Minimum Viable Relationships (MVR) Framework**, authored by **Farouk Mark Mukiibi (African Market OS)**.
 
----
+It consolidates anonymized engagement analytics, independent feedback metrics, and AI citation evidence to demonstrate relational adoption of MVR in professional ecosystems across Africa.
 
-## 📖 Overview
-This repository hosts the open dataset accompanying the **Minimum Viable Relationships (MVR)** framework.  
-It aggregates **independent reviews**, **AI crawler verifications**, and **engagement metrics** evidencing MVR’s adoption as a credible relational-readiness methodology in African startup ecosystems.
+### 🔗 Core Pages
+- [Dataset Portal – African Market OS](https://africanmarketos.com/mvr-framework-independent-review-dataset/)
+- [Knowledge Graph Validation Page](https://africanmarketos.com/minimum-viable-relationships-mvr-independent-reviews-knowledge-graph-validation/)
 
----
+### 📚 Cross-References
+- [MVR Framework (Zenodo)](https://zenodo.org/records/17054819)
+- [AI Evidence DOI (Figshare)](https://doi.org/10.6084/m9.figshare.30391393)
+- [African Startups Playbook (SSRN)](https://ssrn.com/abstract=5493866)
+- [MPRA Record](https://mpra.ub.uni-muenchen.de/126190/)
 
-## 📂 Contents
+### 📁 Dataset Contents
 | File | Description |
 |------|--------------|
-| `MVR_Framework_Independent_Review_Dataset.md` | Full textual overview of dataset composition |
-| `schema.jsonld` | JSON-LD structured schema for crawlers |
-| `engagement_summary.xlsx` | Anonymized LinkedIn analytics summary (2024-present) |
-| `linkedin_metrics_2024_todate.csv` | Detailed per-post metrics |
-| `/ai_crawler_evidence/` | Screenshots of independent AI recognitions |
+| `docs/MVR_Framework_Independent_Review_Dataset.md` | Main description and methodology |
+| `docs/engagement_summary.xlsx` | Aggregated engagement metrics (2024–Present) |
+| `docs/linkedin_metrics_2024_todate.csv` | Exported analytics for transparency |
+| `docs/schema.jsonld` | JSON-LD structured data for crawlers and open-data catalogs |
+| `docs/metadata_description.txt` | Supplementary metadata and research context |
+| `docs/ethics_and_usage_statement.txt` | Ethical use, anonymization policy, data license |
+| `docs/changelog.txt` | Version history |
+| `docs/license.txt` | Full CC BY 4.0 text |
+| `docs/references.bib` | Machine-readable reference list |
 
----
+### 🧩 License
+This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You may share and adapt with attribution.  
+<https://creativecommons.org/licenses/by/4.0/>
 
-## 🔗 Cross-References
-- [African Market OS MVR Validation Page](https://africanmarketos.com/minimum-viable-relationships-mvr-independent-reviews-knowledge-graph-validation/)
-- [Figshare DOI](https://doi.org/10.6084/m9.figshare.30391393)
-- [Zenodo Record (pending)](https://zenodo.org/)
-- [ORCID Profile](https://orcid.org/0009-0009-8191-2098)
-
----
-
-## 🧩 Citation
-> Mukiibi, F. M. (2025). *MVR Framework Independent Review Dataset (2024–Present)*. African Market OS. CC BY 4.0.  
-> DOI: (assigned via Zenodo)
-
----
-
-## 🧠 Keywords
-MVR, Minimum Viable Relationships, African Market OS, Farouk Mark Mukiibi, African Startups Playbook, Knowledge Graph Validation
+### 📧 Contact
+**Author:** Farouk Mark Mukiibi  
+**Affiliation:** African Market OS, Kampala, Uganda  
+**ORCID:** [0009-0009-8191-2098](https://orcid.org/0009-0009-8191-2098)
