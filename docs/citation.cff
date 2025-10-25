@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "MVR Framework Independent Review Dataset (2024–Present)"
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Mukiibi"
+    given-names: "Farouk Mark"
+    affiliation: "African Market OS, Kampala, Uganda"
+    orcid: "https://orcid.org/0009-0009-8191-2098"
+keywords:
+  - MVR
+  - Minimum Viable Relationships
+  - African Market OS
+  - Knowledge Graph
+  - African Startups Playbook
+  - Relational Readiness
+  - Open Data
+license: "CC-BY-4.0"
+version: "1.0"
+date-released: "2025-10-25"
+doi: "10.5281/zenodo.TO_BE_FILLED"
+repository-code: "https://github.com/africanmarketos591/mvr-framework-independent-review-dataset"
